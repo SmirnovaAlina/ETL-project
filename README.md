@@ -1,4 +1,4 @@
-<img src="Resources/image.jpg" alt="Latitude vs Temperature" height="350" width="450">
+<img src="Resources/image.jpg" alt="Oscar" style="align-content: center" height="200" width="600">
 
 # ETL-project
 Authors: Leeza Sergeeva, Alina Smirnova, Anna Burlyaeva
