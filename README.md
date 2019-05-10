@@ -1,4 +1,4 @@
-<img src="Resources/image.jpg" alt="Oscar" style="align-content: center" height="200" width="600">
+<img src="Resources/image.jpg" alt="Oscar" height="250" width="600">
 
 # ETL-project
 Authors: Leeza Sergeeva, Alina Smirnova, Anna Burlyaeva
@@ -13,7 +13,7 @@ To create a pipeline to analyze the popularity of movies made in San Francisco. 
 3. https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
 4. https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
 
-Possible types of transformation: 
+Types of transformation: 
 * cleaning
 * joining
 * filtering
