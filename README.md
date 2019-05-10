@@ -6,12 +6,12 @@ Authors: Leeza Sergeeva, Alina Smirnova, Anna Burlyaeva
 ## Idea
 To create a pipeline to analyze the popularity of movies made in San Francisco. A movie’s popularity rate can be measured as a count of awards.
 
-##Data sources
+## Data sources
 
-[This link](https://data.sfgov.org/Culture-and-Recreation/Film-Locations-in-San-Francisco/yitu-d5am)
-[This link](https://www.kaggle.com/theacademy/academy-awards)
-[This link](https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset)
-[This link](https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv)
+1. https://data.sfgov.org/Culture-and-Recreation/Film-Locations-in-San-Francisco/yitu-d5am
+2. https://www.kaggle.com/theacademy/academy-awards
+3. https://www.kaggle.com/carolzhangdc/imdb-5000-movie-dataset
+4. https://www.kaggle.com/rounakbanik/the-movies-dataset#movies_metadata.csv
 
 Possible types of transformation: 
 * cleaning
@@ -23,7 +23,7 @@ Final database can include: movie_name, year, actors, awards, gross_income, budg
 
 ## Results
 
-###Final pipeline includes three steps:
+### Final pipeline includes three steps:
 
 1.	Extraction: extracted three datasets – movies names and other attributes made in San Francisco, awards data, budget and gross income data;
 2.	Transformation: three datasets were combined and filtered by location, a count of awards by movie and a count of awards by movie and actor were calculated, three dataframes (actors, movies_awards, movies_actors_awards) were created;
