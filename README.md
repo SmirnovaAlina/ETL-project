@@ -1,5 +1,5 @@
+<img src="Resources/image.jpg" alt="Latitude vs Temperature" height="350" width="450">
 
-![Alt text](https://www.google.com/imgres?imgurl=https%3A%2F%2Fwww.oscars.org%2Fsites%2Foscars%2Ffiles%2F91o_news-image_generic.png&imgrefurl=https%3A%2F%2Fwww.oscars.org%2Fnews%2Facademy-determines-new-oscars-category-merits-further-study&docid=KavP9YC0VCkzwM&tbnid=5i11NpYX-Oz84M%3A&vet=10ahUKEwji07LzqZDiAhVGbKwKHbJmD_wQMwh7KC0wLQ..i&w=1433&h=806&client=safari&bih=714&biw=1240&q=Oscar%20png%20images&ved=0ahUKEwji07LzqZDiAhVGbKwKHbJmD_wQMwh7KC0wLQ&iact=mrc&uact=8)
 # ETL-project
 Authors: Leeza Sergeeva, Alina Smirnova, Anna Burlyaeva
 
